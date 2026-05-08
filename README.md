@@ -1,7 +1,5 @@
 # Simulador de Conservação Patrimonial
 **UNDB · Tecnologias Emergentes**  
-Dupla 1 — Core Gameplay & Sistema Lógico
-
 ---
 
 ## Scripts implementados
